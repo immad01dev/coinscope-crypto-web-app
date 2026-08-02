@@ -123,9 +123,9 @@ https://www.coingecko.com/en/api
 
 ## 👨‍💻 Author
 
-**Mohammad Immad**
+**Immad Naseer**
 
-**Software Engineer | React Developer**
+**Software Engineer | Web Application Developer**
 
 GitHub:  
-https://github.com/immad01dev
+https://github.com/immadcipher01

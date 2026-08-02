@@ -3,9 +3,6 @@
 **CoinScope** is a modern cryptocurrency marketplace built with **React.js** and **Vite**.  
 It allows users to explore real-time cryptocurrency prices, search cryptocurrencies, switch currencies, and view detailed information about individual coins using the **CoinGecko API**.
 
-<img width="1920" height="1812" alt="cryptoapp" src="https://github.com/user-attachments/assets/dd17c29b-f288-432b-8855-2255e597e870" />
-
-
 ## ✨ Features
 
 - 📊 **Real-time cryptocurrency data**
@@ -111,8 +108,8 @@ Example:
 ---
 
 ## 📸 Application Preview
+<img width="1920" height="1812" alt="cryptoapp" src="https://github.com/user-attachments/assets/dd17c29b-f288-432b-8855-2255e597e870" />
 
-_Add screenshots of the application here._
 
 ---
 
